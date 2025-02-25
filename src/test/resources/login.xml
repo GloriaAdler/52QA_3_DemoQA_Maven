@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="login" verbose="1">
+    <test name="login">
+        <classes>
+            <class name="demoqa.book_store.LoginTests"/>
+        </classes>
+    </test>
+</suite>
+
